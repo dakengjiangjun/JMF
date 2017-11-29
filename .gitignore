@@ -1,0 +1,17 @@
+#忽略.class文件
+*.class
+ 
+#忽略Eclipse生成的settings文件夹
+.settings/
+
+#忽略idea文件夹
+.idea
+ 
+忽略Eclipse生成的externalToolBuilders文件夹
+.externalToolBuilders/
+
+#忽略lib目录下的jar包
+WebRoot/WEB-INF/lib/
+ 
+#忽略编译文件夹
+classes/
