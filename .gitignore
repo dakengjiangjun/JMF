@@ -1,17 +1,19 @@
-#ºöÂÔ.classÎÄ¼ş
+#ï¿½ï¿½ï¿½ï¿½.classï¿½Ä¼ï¿½
 *.class
- 
-#ºöÂÔEclipseÉú³ÉµÄsettingsÎÄ¼ş¼Ğ
+
+#ï¿½ï¿½ï¿½ï¿½Eclipseï¿½ï¿½ï¿½Éµï¿½settingsï¿½Ä¼ï¿½ï¿½ï¿½
 .settings/
 
-#ºöÂÔideaÎÄ¼ş¼Ğ
-.idea
- 
-ºöÂÔEclipseÉú³ÉµÄexternalToolBuildersÎÄ¼ş¼Ğ
-.externalToolBuilders/
+#ï¿½ï¿½ï¿½ï¿½ideaï¿½Ä¼ï¿½ï¿½ï¿½
+.idea/
 
-#ºöÂÔlibÄ¿Â¼ÏÂµÄjar°ü
+*.project
+
+JMF/server/bin/
+JMF/client/bin/
+
+#ï¿½ï¿½ï¿½ï¿½libÄ¿Â¼ï¿½Âµï¿½jarï¿½ï¿½
 WebRoot/WEB-INF/lib/
- 
-#ºöÂÔ±àÒëÎÄ¼ş¼Ğ
+
+#ï¿½ï¿½ï¿½Ô±ï¿½ï¿½ï¿½ï¿½Ä¼ï¿½ï¿½ï¿½
 classes/
