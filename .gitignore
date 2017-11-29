@@ -1,4 +1,4 @@
-#����.class�ļ�
+﻿#����.class�ļ�
 *.class
 
 #����Eclipse���ɵ�settings�ļ���
@@ -8,6 +8,8 @@
 .idea/
 
 *.project
+*.classpath
+*.iml
 
 JMF/server/bin/
 JMF/client/bin/
